@@ -1,0 +1,12 @@
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/bin/Debug/netcoreapp3.1/ExtentionIndexer.deps.json
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/bin/Debug/netcoreapp3.1/ExtentionIndexer.runtimeconfig.json
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/bin/Debug/netcoreapp3.1/ExtentionIndexer.runtimeconfig.dev.json
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/bin/Debug/netcoreapp3.1/ExtentionIndexer.dll
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/bin/Debug/netcoreapp3.1/ExtentionIndexer.pdb
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/obj/Debug/netcoreapp3.1/ExtentionIndexer.csprojAssemblyReference.cache
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/obj/Debug/netcoreapp3.1/ExtentionIndexer.AssemblyInfoInputs.cache
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/obj/Debug/netcoreapp3.1/ExtentionIndexer.AssemblyInfo.cs
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/obj/Debug/netcoreapp3.1/ExtentionIndexer.csproj.CoreCompileInputs.cache
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/obj/Debug/netcoreapp3.1/ExtentionIndexer.dll
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/obj/Debug/netcoreapp3.1/ExtentionIndexer.pdb
+/Users/muhammedmikayilov/Desktop/CodeAcademy/ExtentionIndexer/ExtentionIndexer/obj/Debug/netcoreapp3.1/ExtentionIndexer.genruntimeconfig.cache
